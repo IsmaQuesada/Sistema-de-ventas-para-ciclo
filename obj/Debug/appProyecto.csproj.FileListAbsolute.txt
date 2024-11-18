@@ -1,0 +1,456 @@
+C:\Users\Ismael Quesada\Documents\appProyecto\obj\Debug\appProyecto.csproj.AssemblyReference.cache
+C:\Users\Ismael Quesada\Documents\appProyecto\obj\Debug\appProyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ismael Quesada\Documents\appProyecto\obj\Debug\appProyecto.Properties.Resources.resources
+C:\Users\Ismael Quesada\Documents\appProyecto\obj\Debug\appProyecto.csproj.GenerateResource.cache
+C:\Users\Ismael Quesada\Documents\appProyecto\obj\Debug\appProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Ismael Quesada\Documents\appProyecto\bin\Debug\appProyecto.exe.config
+C:\Users\Ismael Quesada\Documents\appProyecto\bin\Debug\appProyecto.exe
+C:\Users\Ismael Quesada\Documents\appProyecto\bin\Debug\appProyecto.pdb
+C:\Users\Ismael Quesada\Documents\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMenuPrincipal.resources
+C:\Users\Ismael Quesada\Documents\appProyecto\obj\Debug\appProyecto.exe
+C:\Users\Ismael Quesada\Documents\appProyecto\obj\Debug\appProyecto.pdb
+C:\Users\Ismael Quesada\Documents\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientos.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograFULL\appProyecto\bin\Debug\appProyecto.exe.config
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograFULL\appProyecto\bin\Debug\appProyecto.exe
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograFULL\appProyecto\bin\Debug\appProyecto.pdb
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograFULL\appProyecto\obj\Debug\appProyecto.csproj.AssemblyReference.cache
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograFULL\appProyecto\obj\Debug\appProyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograFULL\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientosClientes.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograFULL\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMenuPrincipal.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograFULL\appProyecto\obj\Debug\appProyecto.Properties.Resources.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograFULL\appProyecto\obj\Debug\appProyecto.csproj.GenerateResource.cache
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograFULL\appProyecto\obj\Debug\appProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograFULL\appProyecto\obj\Debug\appProyecto.exe
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograFULL\appProyecto\obj\Debug\appProyecto.pdb
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograFULL\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientoTipoComponentes.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograFULL\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientoEnsamblaje.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograFULL\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientoTipoProductos.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.csproj.AssemblyReference.cache
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientoTipoComponentes.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientoTipoProductos.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMenuPrincipal.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Properties.Resources.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.csproj.GenerateResource.cache
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.exe
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.pdb
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\bin\Debug\appProyecto.exe.config
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\bin\Debug\appProyecto.exe
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\bin\Debug\appProyecto.pdb
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientoComponentes.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientosUsuarios.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.csproj.CopyComplete
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmIniciarSeccion.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmFacturacion.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmPruebaQR.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMostrarClientes.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMostrarProductos.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmPrepararProductos.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmProductoPorComponente.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\appProyecto.exe.config
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\appProyecto.exe
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\appProyecto.pdb
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.csproj.AssemblyReference.cache
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmFacturacion.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmIniciarSeccion.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientoComponentes.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientosUsuarios.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientoTipoComponentes.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientoTipoProductos.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMenuPrincipal.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMostrarClientes.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMostrarProductos.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmPrepararProductos.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmProductoPorComponente.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmPruebaQR.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Properties.Resources.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.csproj.GenerateResource.cache
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.csproj.CopyComplete
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.exe
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.pdb
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.Reportes.frmReporteProducto.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\obj\Debug\RdlCompile.cache
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\obj\Debug\RdlCompile.compiled
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\EnvDTE.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\stdole.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoTelematica\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\appProyecto.exe.config
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\appProyecto.exe
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\appProyecto.pdb
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\EnvDTE.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\stdole.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.csproj.AssemblyReference.cache
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmFacturacion.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientoComponentes.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientosUsuarios.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientoTipoComponentes.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientoTipoProductos.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMenuPrincipal.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMostrarClientes.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMostrarProductos.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmPrepararProductos.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmProductoPorComponente.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Properties.Resources.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.csproj.GenerateResource.cache
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\RdlCompile.cache
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\RdlCompile.compiled
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.csproj.CopyComplete
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.exe
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.pdb
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.Reportes.frmMostrarFactura.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.Reportes.frmReporteUsuariosPorFecha.resources
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.Reportes.frmReporteDeVenta.resources
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\appProyecto.exe.config
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\appProyecto.exe
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\appProyecto.pdb
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\EnvDTE.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\stdole.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmFacturacion.resources
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmIniciarSeccion.resources
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientoComponentes.resources
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientosUsuarios.resources
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientoTipoComponentes.resources
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientoTipoProductos.resources
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMenuPrincipal.resources
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMostrarClientes.resources
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMostrarProductos.resources
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmPrepararProductos.resources
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmProductoPorComponente.resources
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.Reportes.frmMostrarFactura.resources
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.Reportes.frmReporteDeVenta.resources
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.Reportes.frmReporteProducto.resources
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.Reportes.frmReporteUsuariosPorFecha.resources
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\RdlCompile.cache
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\RdlCompile.compiled
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.csproj.CopyComplete
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.exe
+C:\Users\Estudiante\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.pdb
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\appProyecto.exe.config
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\appProyecto.exe
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\appProyecto.pdb
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\EnvDTE.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\stdole.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\zh-HANT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.csproj.AssemblyReference.cache
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmFacturacion.resources
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmIniciarSeccion.resources
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientoComponentes.resources
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientosUsuarios.resources
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientoTipoComponentes.resources
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientoTipoProductos.resources
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMenuPrincipal.resources
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMostrarClientes.resources
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMostrarProductos.resources
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmPrepararProductos.resources
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmProductoPorComponente.resources
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.Reportes.frmMostrarFactura.resources
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.Reportes.frmReporteDeVenta.resources
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.Reportes.frmReporteProducto.resources
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.Reportes.frmReporteUsuariosPorFecha.resources
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Properties.Resources.resources
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.csproj.GenerateResource.cache
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\RdlCompile.cache
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\RdlCompile.compiled
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.csproj.CopyComplete
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.exe
+C:\Users\Ismael Quesada\Documents\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.pdb
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\log4net.dll
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\bin\Debug\log4net.xml
+C:\Users\Ismael Quesada\Desktop\ProyectoPrograDELUXE\ProyectoPrograDELUXE\appProyecto\obj\Debug\appProyecto.Layers.UI.frmIniciarSesion.resources
+C:\Users\Ismael\Desktop\U-2023\Cuatri 1 - 2023\Progra III\Proyecto\Respaldo 1\Proyecto Progra III - Ismael Quesada Salas\Código Fuente\appProyecto\obj\Debug\appProyecto.csproj.AssemblyReference.cache
+C:\Users\Ismael\Desktop\U-2023\Cuatri 1 - 2023\Progra III\Proyecto\Respaldo 1\Proyecto Progra III - Ismael Quesada Salas\Código Fuente\appProyecto\obj\Debug\appProyecto.Layers.UI.frmFacturacion.resources
+C:\Users\Ismael\Desktop\U-2023\Cuatri 1 - 2023\Progra III\Proyecto\Respaldo 1\Proyecto Progra III - Ismael Quesada Salas\Código Fuente\appProyecto\obj\Debug\appProyecto.Layers.UI.frmIniciarSesion.resources
+C:\Users\Ismael\Desktop\U-2023\Cuatri 1 - 2023\Progra III\Proyecto\Respaldo 1\Proyecto Progra III - Ismael Quesada Salas\Código Fuente\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientoComponentes.resources
+C:\Users\Ismael\Desktop\U-2023\Cuatri 1 - 2023\Progra III\Proyecto\Respaldo 1\Proyecto Progra III - Ismael Quesada Salas\Código Fuente\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientosUsuarios.resources
+C:\Users\Ismael\Desktop\U-2023\Cuatri 1 - 2023\Progra III\Proyecto\Respaldo 1\Proyecto Progra III - Ismael Quesada Salas\Código Fuente\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientoTipoComponentes.resources
+C:\Users\Ismael\Desktop\U-2023\Cuatri 1 - 2023\Progra III\Proyecto\Respaldo 1\Proyecto Progra III - Ismael Quesada Salas\Código Fuente\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMantenimientoTipoProductos.resources
+C:\Users\Ismael\Desktop\U-2023\Cuatri 1 - 2023\Progra III\Proyecto\Respaldo 1\Proyecto Progra III - Ismael Quesada Salas\Código Fuente\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMenuPrincipal.resources
+C:\Users\Ismael\Desktop\U-2023\Cuatri 1 - 2023\Progra III\Proyecto\Respaldo 1\Proyecto Progra III - Ismael Quesada Salas\Código Fuente\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMostrarClientes.resources
+C:\Users\Ismael\Desktop\U-2023\Cuatri 1 - 2023\Progra III\Proyecto\Respaldo 1\Proyecto Progra III - Ismael Quesada Salas\Código Fuente\appProyecto\obj\Debug\appProyecto.Layers.UI.frmMostrarProductos.resources
+C:\Users\Ismael\Desktop\U-2023\Cuatri 1 - 2023\Progra III\Proyecto\Respaldo 1\Proyecto Progra III - Ismael Quesada Salas\Código Fuente\appProyecto\obj\Debug\appProyecto.Layers.UI.frmPrepararProductos.resources
+C:\Users\Ismael\Desktop\U-2023\Cuatri 1 - 2023\Progra III\Proyecto\Respaldo 1\Proyecto Progra III - Ismael Quesada Salas\Código Fuente\appProyecto\obj\Debug\appProyecto.Layers.UI.frmProductoPorComponente.resources
+C:\Users\Ismael\Desktop\U-2023\Cuatri 1 - 2023\Progra III\Proyecto\Respaldo 1\Proyecto Progra III - Ismael Quesada Salas\Código Fuente\appProyecto\obj\Debug\appProyecto.Layers.UI.Reportes.frmMostrarFactura.resources
+C:\Users\Ismael\Desktop\U-2023\Cuatri 1 - 2023\Progra III\Proyecto\Respaldo 1\Proyecto Progra III - Ismael Quesada Salas\Código Fuente\appProyecto\obj\Debug\appProyecto.Layers.UI.Reportes.frmReporteDeVenta.resources
+C:\Users\Ismael\Desktop\U-2023\Cuatri 1 - 2023\Progra III\Proyecto\Respaldo 1\Proyecto Progra III - Ismael Quesada Salas\Código Fuente\appProyecto\obj\Debug\appProyecto.Layers.UI.Reportes.frmReporteUsuariosPorFecha.resources
+C:\Users\Ismael\Desktop\U-2023\Cuatri 1 - 2023\Progra III\Proyecto\Respaldo 1\Proyecto Progra III - Ismael Quesada Salas\Código Fuente\appProyecto\obj\Debug\appProyecto.Properties.Resources.resources
+C:\Users\Ismael\Desktop\U-2023\Cuatri 1 - 2023\Progra III\Proyecto\Respaldo 1\Proyecto Progra III - Ismael Quesada Salas\Código Fuente\appProyecto\obj\Debug\appProyecto.csproj.GenerateResource.cache
+C:\Users\Ismael\Desktop\U-2023\Cuatri 1 - 2023\Progra III\Proyecto\Respaldo 1\Proyecto Progra III - Ismael Quesada Salas\Código Fuente\appProyecto\obj\Debug\appProyecto.csproj.CoreCompileInputs.cache
+C:\Users\Ismael\Desktop\U-2023\Cuatri 1 - 2023\Progra III\Proyecto\Respaldo 1\Proyecto Progra III - Ismael Quesada Salas\Código Fuente\appProyecto\obj\Debug\appProyecto.exe
+C:\Users\Ismael\Desktop\U-2023\Cuatri 1 - 2023\Progra III\Proyecto\Respaldo 1\Proyecto Progra III - Ismael Quesada Salas\Código Fuente\appProyecto\obj\Debug\appProyecto.pdb
